@@ -10,6 +10,8 @@ O objetivo desta análise é entender os padrões de turnover de funcionários n
 
 - `Análise_Turnover_Funcionários.ipynb`: Um notebook Jupyter que contém a análise completa, incluindo visualizações de dados, tabelas de frequências, resumos estatísticos e interpretações.
 
+![análise turnover](https://github.com/tmabgdata/Analises-de-Dados/blob/main/An%C3%A1lise%20de%20Turnover%20em%20Empresa%20de%20Tecnologia/demo_turnover.gif)
+
 ## Resultados e Insights
 
 - A taxa de turnover atual é de 16.12%, indicando uma rotatividade significativa de funcionários na empresa.

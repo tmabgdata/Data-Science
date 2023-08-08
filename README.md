@@ -10,7 +10,7 @@ O objetivo deste repositório é compartilhar análises que demonstrem minha exp
 
 Aqui estão algumas das análises disponíveis neste repositório:
 
-1. [Análise de Turnover de Funcionários em uma Empresa de Tecnologia](https://github.com/tmabgdata/Analises-de-Dados/blob/main/An%C3%A1lise%20de%20Turnover%20em%20Empresa%20de%20Tecnologia/An%C3%A1lise_Turnover_Funcion%C3%A1rios.ipynb): Uma análise detalhada da taxa de turnover de funcionários em uma empresa de tecnologia, explorando fatores como frequência de viagens e faixa etária.
+1. [Análise de Turnover de Funcionários em uma Empresa de Tecnologia](https://github.com/tmabgdata/Analises-de-Dados/tree/main/An%C3%A1lise%20de%20Turnover%20em%20Empresa%20de%20Tecnologia): Uma análise detalhada da taxa de turnover de funcionários em uma empresa de tecnologia, explorando fatores como frequência de viagens e faixa etária.
 
 ## Como Usar
 
