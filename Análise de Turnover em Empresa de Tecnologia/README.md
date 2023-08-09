@@ -30,10 +30,6 @@ O objetivo desta análise é entender os padrões de turnover de funcionários n
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull com melhorias, correções ou sugestões.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
-
 ---
 
 Por Thiago Alves

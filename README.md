@@ -23,10 +23,6 @@ Aqui estão algumas das análises disponíveis neste repositório:
 
 Contribuições são bem-vindas! Se você deseja contribuir com uma nova análise ou aprimorar análises existentes, sinta-se à vontade para abrir problemas ou enviar solicitações de pull com suas melhorias.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
-
 ---
 
 Por Thiago Alves
