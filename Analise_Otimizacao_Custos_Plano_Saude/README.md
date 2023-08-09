@@ -17,6 +17,8 @@ Uma empresa do ramo alimentício enfrenta um aumento nos custos do plano de saú
 - `Analise_Plano_Saude.ipynb`: Um notebook Jupyter contendo a análise completa, incluindo visualizações de dados, tabelas de frequência, resumos estatísticos e interpretações.
 - `base_plano_de_saude.CSV`: O conjunto de dados utilizado na análise.
 
+![análise plano de saúde](https://github.com/tmabgdata/Analises-de-Dados/blob/main/Analise_Otimizacao_Custos_Plano_Saude/demo_healthplan.gif)
+
 ## Resultados e Insights
 
 - Através da análise exploratória, observamos que a maioria dos colaboradores se encontra na faixa etária entre 30 e 40 anos e possui até dois filhos.

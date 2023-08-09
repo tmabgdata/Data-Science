@@ -12,6 +12,8 @@ Aqui estão algumas das análises disponíveis neste repositório:
 
 1. [Análise de Turnover de Funcionários em uma Empresa de Tecnologia](https://github.com/tmabgdata/Analises-de-Dados/tree/main/An%C3%A1lise%20de%20Turnover%20em%20Empresa%20de%20Tecnologia): Uma análise detalhada da taxa de turnover de funcionários em uma empresa de tecnologia, explorando fatores como frequência de viagens e faixa etária.
 
+2. [Análise de Otimização de Custos de Plano de Saúde](https://github.com/tmabgdata/Analises-de-Dados/tree/main/Analise_Otimizacao_Custos_Plano_Saude): Neste projeto, explorei uma análise de otimização de custos de plano de saúde em uma empresa do ramo alimentício. A análise foi conduzida utilizando Python e técnicas de análise de dados, visando entender os fatores que estão relacionados com o custo do plano de saúde dos colaboradores.
+
 ## Como Usar
 
 1. Navegue pelas pastas deste repositório para encontrar as análises de seu interesse.
