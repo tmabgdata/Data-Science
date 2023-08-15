@@ -1,30 +1,30 @@
-# Análises de Dados
+# Data Science
 
-Bem-vindo ao repositório de Análises de Dados! Aqui você encontrará uma coleção de análises que realizei usando diversas técnicas e ferramentas de análise de dados. Cada análise aborda diferentes conjuntos de dados e questões específicas para explorar insights e informações valiosas.
+Welcome to the Data Analysis Repository! Here you'll find a collection of analyses I've conducted using various data analysis techniques and tools. Each analysis addresses different datasets and specific questions to explore insights and valuable information.
 
-## Objetivo
+## Objective
 
-O objetivo deste repositório é compartilhar análises que demonstrem minha experiência e habilidades em análise de dados. Cada análise é acompanhada de um notebook Jupyter detalhado, onde você encontrará visualizações, tabelas, gráficos e interpretações dos resultados.
+The aim of this repository is to share analyses that demonstrate my experience and skills in data analysis. Each analysis is accompanied by a detailed Jupyter notebook, where you'll find visualizations, tables, charts, and interpretations of the results.
 
-## Conteúdo do Repositório
+## Repository Contents
 
-Aqui estão algumas das análises disponíveis neste repositório:
+Here are some of the analyses available in this repository:
 
-1. [Análise de Turnover de Funcionários em uma Empresa de Tecnologia](https://github.com/tmabgdata/Analises-de-Dados/tree/main/An%C3%A1lise%20de%20Turnover%20em%20Empresa%20de%20Tecnologia): Uma análise detalhada da taxa de turnover de funcionários em uma empresa de tecnologia, explorando fatores como frequência de viagens e faixa etária.
+1. [Employee Turnover Analysis in a Technology Company](https://github.com/tmabgdata/Analises-de-Dados/tree/main/Employee%20Turnover%20Analysis%20in%20Technology%20Company): A detailed analysis of employee turnover rate in a technology company, exploring factors such as travel frequency and age group.
 
-2. [Análise de Otimização de Custos de Plano de Saúde](https://github.com/tmabgdata/Analises-de-Dados/tree/main/Analise_Otimizacao_Custos_Plano_Saude): Neste projeto, explorei uma análise de otimização de custos de plano de saúde em uma empresa do ramo alimentício. A análise foi conduzida utilizando Python e técnicas de análise de dados, visando entender os fatores que estão relacionados com o custo do plano de saúde dos colaboradores.
+2. [Health Plan Cost Optimization Analysis](https://github.com/tmabgdata/Analises-de-Dados/tree/main/Health%20Plan%20Cost%20Optimization%20Analysis): In this project, I conducted an analysis of health plan cost optimization in a food industry company. The analysis was conducted using Python and data analysis techniques, aiming to understand the factors related to employee health plan costs.
 
-## Como Usar
+## How to Use
 
-1. Navegue pelas pastas deste repositório para encontrar as análises de seu interesse.
-2. Abra os notebooks Jupyter correspondentes para visualizar as análises completas.
-3. Execute as células dos notebooks para reproduzir as análises e visualizações.
-4. Leia os comentários e textos explicativos para entender os resultados e insights de cada análise.
+1. Browse through the folders of this repository to find analyses of your interest.
+2. Open the corresponding Jupyter notebooks to view the complete analyses.
+3. Execute the notebook cells to reproduce the analyses and visualizations.
+4. Read the comments and explanatory text to understand the results and insights of each analysis.
 
-## Contribuições
+## Contributions
 
-Contribuições são bem-vindas! Se você deseja contribuir com uma nova análise ou aprimorar análises existentes, sinta-se à vontade para abrir problemas ou enviar solicitações de pull com suas melhorias.
+Contributions are welcome! If you'd like to contribute a new analysis or enhance existing ones, feel free to open issues or send pull requests with your improvements.
 
 ---
 
-Por Thiago Alves
+By Thiago Alves
