@@ -10,9 +10,9 @@ The aim of this repository is to share analyses that demonstrate my experience a
 
 Here are some of the analyses available in this repository:
 
-1. [Employee Turnover Analysis in a Technology Company](https://github.com/tmabgdata/Analises-de-Dados/tree/main/Employee%20Turnover%20Analysis%20in%20Technology%20Company): A detailed analysis of employee turnover rate in a technology company, exploring factors such as travel frequency and age group.
+1. [Employee Turnover Analysis in a Technology Company](https://github.com/tmabgdata/Data-Science/tree/main/Employee%20Turnover%20Analysis%20in%20a%20Technology%20Company): A detailed analysis of employee turnover rate in a technology company, exploring factors such as travel frequency and age group.
 
-2. [Health Plan Cost Optimization Analysis](https://github.com/tmabgdata/Analises-de-Dados/tree/main/Health%20Plan%20Cost%20Optimization%20Analysis): In this project, I conducted an analysis of health plan cost optimization in a food industry company. The analysis was conducted using Python and data analysis techniques, aiming to understand the factors related to employee health plan costs.
+2. [Health Plan Cost Optimization Analysis](https://github.com/tmabgdata/Data-Science/tree/main/Health%20Plan%20Cost%20Optimization%20Analysis): In this project, I conducted an analysis of health plan cost optimization in a food industry company. The analysis was conducted using Python and data analysis techniques, aiming to understand the factors related to employee health plan costs.
 
 ## How to Use
 
