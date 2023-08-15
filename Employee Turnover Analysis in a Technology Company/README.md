@@ -9,8 +9,9 @@ The objective of this analysis is to understand employee turnover patterns withi
 ## Repository Contents
 
 - `Employee_Turnover_Analysis.ipynb`: A Jupyter notebook that includes the complete analysis, featuring data visualizations, frequency tables, statistical summaries, and interpretations.
+- `employee_rh_data`: The dataset used in the analysis.
 
-![turnover analysis](https://github.com/tmabgdata/Analises-de-Dados/blob/main/Employee%20Turnover%20Analysis%20in%20Technology%20Company/demo_turnover.gif)
+![turnover analysis](https://github.com/tmabgdata/Data-Science/blob/main/Employee%20Turnover%20Analysis%20in%20a%20Technology%20Company/demo_turnover.gif)
 
 ## Results and Insights
 
