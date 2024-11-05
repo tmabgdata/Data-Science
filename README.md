@@ -1,18 +1,16 @@
-# Data Science
+# Data Science & Machine Learning
 
-Welcome to the Data Analysis Repository! Here you'll find a collection of analyses I've conducted using various data analysis techniques and tools. Each analysis addresses different datasets and specific questions to explore insights and valuable information.
+Welcome to the Machine Learning Repository! Here, you’ll find a curated collection of machine learning projects, where I apply various algorithms and techniques to solve real-world problems. Each project explores a unique dataset and seeks to uncover predictive insights and valuable patterns.
+
+
 
 ## Objective
 
-The aim of this repository is to share analyses that demonstrate my experience and skills in data analysis. Each analysis is accompanied by a detailed Jupyter notebook, where you'll find visualizations, tables, charts, and interpretations of the results.
+The aim of this repository is to showcase my expertise and skills in machine learning, from data preprocessing to model evaluation. Each project includes a detailed Jupyter notebook with data processing steps, visualizations, model performance metrics, and interpretations of the results.
 
 ## Repository Contents
 
-Here are some of the analyses available in this repository:
-
-1. [Employee Turnover Analysis in a Technology Company](https://github.com/tmabgdata/Data-Science/tree/main/Employee%20Turnover%20Analysis%20in%20a%20Technology%20Company): A detailed analysis of employee turnover rate in a technology company, exploring factors such as travel frequency and age group.
-
-2. [Health Plan Cost Optimization Analysis](https://github.com/tmabgdata/Data-Science/tree/main/Health%20Plan%20Cost%20Optimization%20Analysis): In this project, I conducted an analysis of health plan cost optimization in a food industry company. The analysis was conducted using Python and data analysis techniques, aiming to understand the factors related to employee health plan costs.
+Building Machine Learning Projects
 
 ## How to Use
 
