@@ -8,7 +8,9 @@ The aim of this repository is to showcase my expertise and skills in machine lea
 
 ## Repository Contents
 
-Building Machine Learning Projects
+[Python Environment Guide for Windows](python_environment.md)
+
+[Building Machine Learning Projects]()
 
 ## How to Use
 
