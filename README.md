@@ -25,4 +25,4 @@ Contributions are welcome! If you'd like to contribute a new analysis or enhance
 
 ---
 
-By Thiago Alves
+By Thiago Alves (Data Scientist)
