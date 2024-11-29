@@ -8,9 +8,11 @@ The aim of this repository is to showcase my expertise and skills in machine lea
 
 ## Repository Contents
 
-[Python Environment Guide for Windows](python_environment.md)
+1. [Python Environment Guide for Windows & VS Code](python_environment.md)
 
-[Building Machine Learning Projects]()
+2. [Multilingual Language Detection Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_LM's_Regex)
+
+3. [Churn Rate - building...](https://github.com/tmabgdata/Data-Science/tree/main/EAD_churn)
 
 ## How to Use
 
