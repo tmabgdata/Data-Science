@@ -6,8 +6,9 @@ name = "pypi"
 [packages]
 jupyter = "*"
 pandas = "*"
-scikit-learn = "*"
 regex = "*"
+nltk = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
