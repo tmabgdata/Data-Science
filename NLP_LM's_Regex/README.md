@@ -2,6 +2,10 @@
 
 This project aims to detect languages in text data by utilizing regular expressions (regex) and machine learning models. It processes a dataset of StackOverflow text data for language analysis, focusing on cleaning, preprocessing, model training, and evaluation.
 
+#### [notebook with data wrangling](https://github.com/tmabgdata/Data-Science/blob/main/NLP_LM's_Regex/notebook/cleaned_data.ipynb)
+
+#### [notebook with language detection model](https://github.com/tmabgdata/Data-Science/blob/main/NLP_LM's_Regex/notebook/language_detection_with_regex_and_nltk.ipynb)
+
 ## Overview
 
 The Language Detection Project leverages both **regex** and **machine learning** to classify the language of given text data. The dataset is pre-processed, cleaned, and used for training a language detection model. The project includes a workflow for data acquisition, text preprocessing, model training, evaluation, and results generation.
@@ -70,11 +74,11 @@ jupyter notebook language_detection.ipynb
 
 The following data files are used in the project:
 
-- [`stackoverflow_portugues.csv`](NLP_LM's_Regex/data/stackoverflow_portugues.csv): The original dataset collected from StackOverflow.
-- [`stackoverflow_ingles.csv`](NLP_LM's_Regex/data/stackoverflow_ingles.csv): The original dataset collected from StackOverflow.
-- [`stackoverflow_espanhol.csv`](NLP_LM's_Regex/data/stackoverflow_espanhol.csv): The original dataset collected from StackOverflow.
-- [`cleaned_data.csv`](NLP_LM's_Regex/cleaned_data): The cleaned and pre-processed dataset ready for language detection.
-- [`output_results`](NLP_LM's_Regex/notebook/language_detection_with_regex_and_nltk.ipynb): The results of the language detection model after evaluation.
+- [`stackoverflow_portugues.csv`](https://github.com/tmabgdata/Data-Science/blob/main/NLP_LM's_Regex/data/stackoverflow_portugues.csv): The original dataset collected from StackOverflow.
+- [`stackoverflow_ingles.csv`](https://github.com/tmabgdata/Data-Science/blob/main/NLP_LM's_Regex/data/stackoverflow_ingles.csv): The original dataset collected from StackOverflow.
+- [`stackoverflow_espanhol.csv`](https://github.com/tmabgdata/Data-Science/blob/main/NLP_LM's_Regex/data/stackoverflow_espanhol.csv): The original dataset collected from StackOverflow.
+- [`cleaned_data.csv`](https://github.com/tmabgdata/Data-Science/tree/main/NLP_LM's_Regex/cleaned_data): The cleaned and pre-processed dataset ready for language detection.
+- [`output_results`](https://github.com/tmabgdata/Data-Science/blob/main/NLP_LM's_Regex/notebook/language_detection_with_regex_and_nltk.ipynb): The results of the language detection model after evaluation.
 
 ### Example
 
