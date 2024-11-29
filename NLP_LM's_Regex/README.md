@@ -70,11 +70,11 @@ jupyter notebook language_detection.ipynb
 
 The following data files are used in the project:
 
-- [`stackoverflow_portugues.csv`](NLP_LM's_Regex\data\stackoverflow_portugues.csv): The original dataset collected from StackOverflow.
-- [`stackoverflow_ingles.csv`](NLP_LM's_Regex\data\stackoverflow_ingles.csv): The original dataset collected from StackOverflow.
-- [`stackoverflow_espanhol.csv`](NLP_LM's_Regex\data\stackoverflow_espanhol.csv): The original dataset collected from StackOverflow.
-- [`cleaned_data.csv`](NLP_LM's_Regex\cleaned_data): The cleaned and pre-processed dataset ready for language detection.
-- [`output_results`](NLP_LM's_Regex\notebook\language_detection_with_regex_and_nltk.ipynb): The results of the language detection model after evaluation.
+- [`stackoverflow_portugues.csv`](NLP_LM's_Regex/data/stackoverflow_portugues.csv): The original dataset collected from StackOverflow.
+- [`stackoverflow_ingles.csv`](NLP_LM's_Regex/data/stackoverflow_ingles.csv): The original dataset collected from StackOverflow.
+- [`stackoverflow_espanhol.csv`](NLP_LM's_Regex/data/stackoverflow_espanhol.csv): The original dataset collected from StackOverflow.
+- [`cleaned_data.csv`](NLP_LM's_Regex/cleaned_data): The cleaned and pre-processed dataset ready for language detection.
+- [`output_results`](NLP_LM's_Regex/notebook/language_detection_with_regex_and_nltk.ipynb): The results of the language detection model after evaluation.
 
 ### Example
 
