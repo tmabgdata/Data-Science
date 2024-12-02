@@ -2,6 +2,8 @@
 
 This project involves building a Natural Language Processing (NLP) system for text preprocessing, language detection, and spell checking using a dataset in Brazilian Portuguese. The system uses machine learning models like Logistic Regression and Random Forest, with various text preprocessing techniques applied for optimal performance.
 
+[nlp spell checker notebook project](https://github.com/tmabgdata/Data-Science/blob/main/NLP_SpellChecker_Project/notebooks/main_notebook.ipynb)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -94,11 +96,11 @@ jupyter notebook notebooks/main_notebook.ipynb
 
 ## Future Work
 
-. Add more complex language models (e.g., transformers).
+- Add more complex language models (e.g., transformers).
 
-. Implement a comprehensive evaluation metric like F1-score.
+- Implement a comprehensive evaluation metric like F1-score.
 
-. Expand to support other languages.
+- Expand to support other languages.
 
 ## Contributing
 
