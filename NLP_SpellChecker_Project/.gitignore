@@ -1,4 +1,2 @@
-# Ignorar o ambiente virtual dentro do projeto SpellingCorrector
-SpellingCorrector/environments
 Pipfile
 Pipfile.lock
