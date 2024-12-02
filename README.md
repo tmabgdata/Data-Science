@@ -8,11 +8,13 @@ The aim of this repository is to showcase my expertise and skills in machine lea
 
 ## Repository Contents
 
-1. [Python Environment Guide for Windows & VS Code](python_environment.md)
+- [Python Environment Guide for Windows & VS Code](python_environment.md)
 
-2. [Multilingual Language Detection Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_LM's_Regex)
+- [Multilingual Language Detection Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_LM's_Regex)
 
-3. [Churn Rate - building...](https://github.com/tmabgdata/Data-Science/tree/main/EAD_churn)
+- [Spell Checker Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_SpellChecker_Project)
+
+- [Churn Rate - building...](https://github.com/tmabgdata/Data-Science/tree/main/EAD_churn)
 
 ## How to Use
 
