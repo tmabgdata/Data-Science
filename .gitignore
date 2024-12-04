@@ -1,5 +1,1 @@
-# Ignorar Pipfile e Pipfile.lock nas pastas específicas
-EAD_churn/Pipfile
-EAD_churn/Pipfile.lock
-NLP_LM's_Regex/Pipfile
-NLP_LM's_Regex/Pipfile.lock
+/env_data_science/
