@@ -1,32 +1,122 @@
 # Data Science & Machine Learning
 
-Welcome to the Machine Learning Repository! Here, you’ll find a curated collection of machine learning projects, where I apply various algorithms and techniques to solve real-world problems. Each project explores a unique dataset and seeks to uncover predictive insights and valuable patterns.
-
-## Objective
-
-The aim of this repository is to showcase my expertise and skills in machine learning, from data preprocessing to model evaluation. Each project includes a detailed Jupyter notebook with data processing steps, visualizations, model performance metrics, and interpretations of the results.
+Welcome to the **Data Science & Machine Learning Repository**! This repository showcases a variety of projects that apply machine learning, data analysis, and artificial intelligence to solve real-world problems. Each project explores unique datasets, leveraging algorithms and techniques to uncover insights and create predictive models.
 
 ## Repository Contents
 
-- [Python Environment Guide for Windows & VS Code](python_environment.md)
+Explore the following projects:
 
-- [Multilingual Language Detection Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_LM's_Regex)
+- **[Python Environment Guide for Windows & VS Code](python_environment.md)**  
+  Step-by-step guide to setting up a Python environment for efficient development.
 
-- [Spell Checker Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_SpellChecker_Project)
+- **[Multilingual Language Detection Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_LM's_Regex)**  
+  Language detection using regex and language models.
 
-- [Churn Rate - building...](https://github.com/tmabgdata/Data-Science/tree/main/EAD_churn)
+- **[Spell Checker Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_SpellChecker_Project)**  
+  A custom-built spell-checker utilizing NLP techniques.
 
-## How to Use
+- **[Sentiment Analysis Project](https://github.com/tmabgdata/Data-Science/tree/main/NLP_Kindle_Review_Sentiment_Analysis)**  
+  Sentiment analysis on Kindle reviews with visualization and insights.
 
-1. Browse through the folders of this repository to find analyses of your interest.
-2. Open the corresponding Jupyter notebooks to view the complete analyses.
-3. Execute the notebook cells to reproduce the analyses and visualizations.
-4. Read the comments and explanatory text to understand the results and insights of each analysis.
+- **[Franchise Cost Forecast](https://github.com/tmabgdata/Data-Science/tree/main/Franchise_Cost_Forecast)**  
+  A linear regression-based tool to predict franchise investment costs.
+
+- **[Cars Quality Forecast](https://github.com/tmabgdata/Data-Science/tree/main/Quality_of_Cars)**  
+  Vehicle classification based on features using Naive Bayes.
+
+- **[Churn Rate - (In Progress)](https://github.com/tmabgdata/Data-Science/tree/main/EAD_churn)**  
+  An exploratory analysis and predictive modeling project for churn prediction.
+
+## How to Run the Projects
+
+Each project is self-contained with its own set of instructions in the respective folder. Follow these general steps:
+
+### Python Projects with Streamlit
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/tmabgdata/Data-Science.git
+   cd Data-Science
+
+2. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Navigate to the project's folder, then run:
+
+    ```bash
+    streamlit run app.py
+    ```
+
+4. Open your browser at the provided URL (e.g., `http://localhost:8501)` to interact with the app.
+
+### Jupyter Notebook Projects
+
+1. Ensure you have Jupyter installed:
+
+    ```bash
+    pip install notebook
+    ```
+
+2. Navigate to the project's folder:
+
+    ```bash
+    cd path/to/project
+    ```
+
+3. Launch Jupyter Notebook:
+
+    ```bash
+    jupyter notebook
+    ```
+
+4. Open the notebook file (`.ipynb`) and execute the cells to reproduce the analysis.
+
+### Dash Projects (Upcoming)
+
+- Dash-based projects will include clear instructions for setup and usage upon their release.
+
+## Folder Structure
+
+```graphql
+Data-Science/
+├── NLP_LM's_Regex/                  # Multilingual Language Detection
+├── NLP_SpellChecker_Project/        # Spell Checker Model
+├── NLP_Kindle_Review_Sentiment_Analysis/ # Sentiment Analysis
+├── Franchise_Cost_Forecast/         # Franchise Cost Prediction
+├── Quality_of_Cars/                 # Cars Quality Classification
+├── EAD_churn/                       # Churn Analysis (In Progress)
+├── requirements.txt                 # Project dependencies
+├── python_environment.md            # Python setup guide
+└── .gitignore                       # Ignored files (e.g., checkpoints, `ds` environment)
+
+```
+
+## Recommendations for Testing the Projects
+
+- **Environment**: Use Python 3.12 for all projects to ensure compatibility.
+
+- **Isolation**: Create a virtual environment for testing individual projects.
+
+- **Dependencies**: Install all libraries via ``requirements.txt`` to avoid compatibility issues.
+
+- **GitIgnore**: Keep large files, temporary data, and personal environment folders like ds/ excluded from version control.
 
 ## Contributions
 
-Contributions are welcome! If you'd like to contribute a new analysis or enhance existing ones, feel free to open issues or send pull requests with your improvements.
+Contributions are welcome! Whether it's fixing issues, improving existing projects, or adding new ones:
+
+1. Fork the repository.
+
+2. Create a feature branch.
+
+3. Submit a pull request with detailed information about your changes.
 
 ---
 
-By Thiago Alves
+### Kind regards,
+
+Thiago Alves
