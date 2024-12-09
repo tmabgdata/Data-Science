@@ -2,6 +2,10 @@
 
 This project is an interactive tool developed with Python and Streamlit to classify the **quality of vehicles** based on various features. It uses a **Naive Bayes model** trained on categorical data to predict the vehicle's quality.
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dof97idbn/image/upload/v1733720562/quality_of_cars.gif" alt="Forecasting GIF" width="600">
+</p>
+
 ## Features
 
 - Load and preprocess data for categorical classification.

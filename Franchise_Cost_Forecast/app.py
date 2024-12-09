@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 st.title("Franchise Cost Forecast")
 
-data = pd.read_csv(r"D:\Repositories\Data-Science\LinearRegression\data\slr12.csv", sep = ";")
+data = pd.read_csv(r"D:\Repositories\Data-Science\Franchise_Cost_Forecast\data\slr12.csv", sep = ";")
 
 X = data[['FrqAnual']]
 y = data['CusInic']

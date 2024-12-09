@@ -2,6 +2,10 @@
 
 This project is an interactive application developed with Python and Streamlit to predict the **initial cost of a franchise** based on annual investment. The application uses a Linear Regression model for the predictions.
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dof97idbn/image/upload/v1733719978/franchise_cost_forecast.gif" alt="Forecasting GIF" width="600">
+</p>
+
 ## Features
 
 - Visualization of historical data on annual investments and initial franchise costs.

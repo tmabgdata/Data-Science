@@ -49,7 +49,7 @@ input_features = [
 ]
 
 if st.button("Process"):
-    input_df = pd.DataFrame([imput_features], columns = cars.columns.drop('class'))
+    input_df = pd.DataFrame([input_features], columns = cars.columns.drop('class'))
     input_encoded = encoder.transform(input_df)
     predict_encoded = model.predict(input_encoded)
     forecast = cars['class'].astype('category').cat.categories[predict_encoded][0]
