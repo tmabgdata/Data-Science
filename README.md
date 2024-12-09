@@ -30,6 +30,9 @@ Explore the following projects:
 - **[Probability Equipment Failures](https://github.com/tmabgdata/Data-Science/tree/main/Equipment_Failure)**
   Probability of equipment failures based on the Poisson distribution
 
+- [Normality of Data](https://github.com/tmabgdata/Data-Science/tree/main/Normality_of_Data)
+  Test the normality of data using the Shapiro-Wilk test
+
 - **[Churn Rate - (In Progress)](https://github.com/tmabgdata/Data-Science/tree/main/EAD_churn)**  
   An exploratory analysis and predictive modeling project for churn prediction.
 
@@ -98,6 +101,7 @@ Data-Science/
 (In Progress) 
 ├── MilkProd/                        # Time Series Analysis Prediction
 ├── Equipment_Failure/               # Probability with Poisson
+├── Normality_of_Data                # Shapiro-Wilk test
 ├── requirements.txt                 # Project dependencies
 ├── python_environment.md            # Python setup guide
 └── .gitignore                       # Ignored files (e.g., checkpoints, `ds` environment)
