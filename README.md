@@ -24,6 +24,9 @@ Explore the following projects:
 - **[Cars Quality Forecast](https://github.com/tmabgdata/Data-Science/tree/main/Quality_of_Cars)**  
   Vehicle classification based on features using Naive Bayes.
 
+- **[Milk Production Forecast](https://github.com/tmabgdata/Data-Science/tree/main/MilkProd)**  
+  Time series analysis and forecasting system for monthly milk production using SARIMAX.
+
 - **[Churn Rate - (In Progress)](https://github.com/tmabgdata/Data-Science/tree/main/EAD_churn)**  
   An exploratory analysis and predictive modeling project for churn prediction.
 
