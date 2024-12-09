@@ -27,11 +27,14 @@ Explore the following projects:
 - **[Milk Production Forecast](https://github.com/tmabgdata/Data-Science/tree/main/MilkProd)**  
   Time series analysis and forecasting system for monthly milk production using SARIMAX.
 
-- **[Probability Equipment Failures](https://github.com/tmabgdata/Data-Science/tree/main/Equipment_Failure)**
+- **[Probability Equipment Failures](https://github.com/tmabgdata/Data-Science/tree/main/Equipment_Failure)** 
   Probability of equipment failures based on the Poisson distribution
 
-- [Normality of Data](https://github.com/tmabgdata/Data-Science/tree/main/Normality_of_Data)
+- **[Normality of Data](https://github.com/tmabgdata/Data-Science/tree/main/Normality_of_Data)**  
   Test the normality of data using the Shapiro-Wilk test
+
+- **[Recommendation Rules](https://github.com/tmabgdata/Data-Science/tree/main/Recommendation_Rules)**  
+  Generate and visualize association rules from transactional data using the Apriori algorithm
 
 - **[Churn Rate - (In Progress)](https://github.com/tmabgdata/Data-Science/tree/main/EAD_churn)**  
   An exploratory analysis and predictive modeling project for churn prediction.
@@ -102,6 +105,7 @@ Data-Science/
 ├── MilkProd/                        # Time Series Analysis Prediction
 ├── Equipment_Failure/               # Probability with Poisson
 ├── Normality_of_Data                # Shapiro-Wilk test
+├── Recommendation_Rules             # Apriori algorithm 
 ├── requirements.txt                 # Project dependencies
 ├── python_environment.md            # Python setup guide
 └── .gitignore                       # Ignored files (e.g., checkpoints, `ds` environment)
