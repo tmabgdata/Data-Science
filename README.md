@@ -27,6 +27,9 @@ Explore the following projects:
 - **[Milk Production Forecast](https://github.com/tmabgdata/Data-Science/tree/main/MilkProd)**  
   Time series analysis and forecasting system for monthly milk production using SARIMAX.
 
+- **[Probability Equipment Failures](https://github.com/tmabgdata/Data-Science/tree/main/Equipment_Failure)**
+  Probability of equipment failures based on the Poisson distribution
+
 - **[Churn Rate - (In Progress)](https://github.com/tmabgdata/Data-Science/tree/main/EAD_churn)**  
   An exploratory analysis and predictive modeling project for churn prediction.
 
@@ -91,7 +94,10 @@ Data-Science/
 ├── NLP_Kindle_Review_Sentiment_Analysis/ # Sentiment Analysis
 ├── Franchise_Cost_Forecast/         # Franchise Cost Prediction
 ├── Quality_of_Cars/                 # Cars Quality Classification
-├── EAD_churn/                       # Churn Analysis (In Progress)
+├── EAD_churn/                       # Churn Analysis
+(In Progress) 
+├── MilkProd/                        # Time Series Analysis Prediction
+├── Equipment_Failure/               # Probability with Poisson
 ├── requirements.txt                 # Project dependencies
 ├── python_environment.md            # Python setup guide
 └── .gitignore                       # Ignored files (e.g., checkpoints, `ds` environment)
