@@ -37,7 +37,7 @@ encoder, model, accuracy, cars = load_data_and_model()
 st.title("Cars Quality Forecast")
 st.write(f"Accuracy of Model: {accuracy:.2f}")
 
-imput_features = [
+input_features = [
 
     st.selectbox("Price:", cars['buying'].unique()),
     st.selectbox("Maint:", cars['maint'].unique()),
@@ -49,8 +49,8 @@ imput_features = [
 ]
 
 if st.button("Process"):
-    imput_df = pd.DataFrame([imput_features], columns = cars.columns.drop('class'))
-    imput_encoded = encoder.transform(imput_df)
-    predict_encoded = model.predict(imput_encoded)
+    input_df = pd.DataFrame([imput_features], columns = cars.columns.drop('class'))
+    input_encoded = encoder.transform(input_df)
+    predict_encoded = model.predict(input_encoded)
     forecast = cars['class'].astype('category').cat.categories[predict_encoded][0]
     st.header(f"Forecast Results: {forecast}")
