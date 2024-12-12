@@ -6,18 +6,6 @@ Welcome to the **Data Science & Machine Learning Repository**! This repository s
 
 Explore the following projects:
 
-- **[Python Environment Guide for Windows & VS Code](python_environment.md)**  
-  Step-by-step guide to setting up a Python environment for efficient development.
-
-- **[Multilingual Language Detection Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_LM's_Regex)**  
-  Language detection using regex and language models.
-
-- **[Spell Checker Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_SpellChecker_Project)**  
-  A custom-built spell-checker utilizing NLP techniques.
-
-- **[Sentiment Analysis Project](https://github.com/tmabgdata/Data-Science/tree/main/NLP_Kindle_Review_Sentiment_Analysis)**  
-  Sentiment analysis on Kindle reviews with visualization and insights.
-
 - **[Franchise Cost Forecast](https://github.com/tmabgdata/Data-Science/tree/main/Franchise_Cost_Forecast)**  
   A linear regression-based tool to predict franchise investment costs.
 
@@ -36,8 +24,20 @@ Explore the following projects:
 - **[Recommendation Rules](https://github.com/tmabgdata/Data-Science/tree/main/Recommendation_Rules)**  
   Generate and visualize association rules from transactional data using the Apriori algorithm.
 
+- **[Milk Benchmark](https://github.com/tmabgdata/Data-Science/tree/main/Milk_Benchmark)**
+  Time series forecasting tool using multiple statistical methods.
+
 - **[Churn Rate - (In Progress)](https://github.com/tmabgdata/Data-Science/tree/main/EAD_churn)**  
   An exploratory analysis and predictive modeling project for churn prediction.
+
+- **[Multilingual Language Detection Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_LM's_Regex)**  
+  Language detection using regex and language models.
+
+- **[Spell Checker Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_SpellChecker_Project)**  
+  A custom-built spell-checker utilizing NLP techniques.
+
+- **[Sentiment Analysis Project](https://github.com/tmabgdata/Data-Science/tree/main/NLP_Kindle_Review_Sentiment_Analysis)**  
+  Sentiment analysis on Kindle reviews with visualization and insights.
 
 ## How to Run the Projects
 
