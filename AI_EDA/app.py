@@ -10,7 +10,7 @@ st.title("Despesas empenhadas e relação com o PIB")
 @st.cache_data
 def load_data():
     # Carrega os dados de um arquivo CSV e calcula a proporção entre valor empenhado e PIB
-    data = pd.read_csv(r"(yourpath)\\data.csv", sep=";")
+    data = pd.read_csv(r"D:\Repositories\Data-Science\AI_EDA\data\data.csv", sep=";")
     data['PROPORCAO'] = data['VALOREMPENHO'] / data['PIB']
     return data
 
