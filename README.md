@@ -30,6 +30,9 @@ Explore the following projects:
 - **[Churn Rate - (In Progress)](https://github.com/tmabgdata/Data-Science/tree/main/EAD_churn)**  
   An exploratory analysis and predictive modeling project for churn prediction.
 
+- **[AI - EDA](https://github.com/tmabgdata/Data-Science/tree/main/AI_EDA)**
+  Automated exploratory data analysis
+
 - **[Multilingual Language Detection Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_LM's_Regex)**  
   Language detection using regex and language models.
 
