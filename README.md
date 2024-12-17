@@ -33,6 +33,9 @@ Explore the following projects:
 - **[AI - EDA](https://github.com/tmabgdata/Data-Science/tree/main/AI_EDA)**
   Automated exploratory data analysis
 
+- **[Cargo Optimization](https://github.com/tmabgdata/Data-Science/tree/main/Cargo_Transport_Optimization)**
+  Optimizes cargo selection using a Genetic Algorithm
+
 - **[Multilingual Language Detection Model](https://github.com/tmabgdata/Data-Science/tree/main/NLP_LM's_Regex)**  
   Language detection using regex and language models.
 
