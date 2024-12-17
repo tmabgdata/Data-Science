@@ -4,6 +4,10 @@
 
 Este projeto consiste em uma aplicação web desenvolvida com **Streamlit** para realizar análises exploratórias de dados sobre despesas empenhadas em relação ao **PIB (Produto Interno Bruto)**. A aplicação apresenta diferentes formas de visualização, como resumos estatísticos, histogramas, boxplots e gráficos interativos, permitindo identificar os maiores valores e suas proporções de forma clara e intuitiva.
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dof97idbn/image/upload/v1734460566/AI_EDA.gif" alt="Forecasting GIF" width="600">
+</p>
+
 ---
 
 ## Funcionalidades Principais
