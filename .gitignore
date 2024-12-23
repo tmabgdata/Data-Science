@@ -3,3 +3,4 @@
 /.vscode
 */.env
 Credit_Score_Novadrive/EDA/config.yaml
+Credit_Score_Novadrive/EDA/__pycache__/
