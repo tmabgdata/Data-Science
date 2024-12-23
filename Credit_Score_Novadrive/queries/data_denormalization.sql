@@ -10,18 +10,20 @@
 -- denormalization of data: --
 
 SELECT	c.Profissao,
-		c.TempoProfissao,
+		c.Tempoprofissao,
 		c.Renda,
+		c.TipoResidencia,
 		c.Escolaridade,
 		c.Score,
-		EXTRACT(YEAR FROM AGE(c.DataNascimento)) AS Idade,
+		EXTRACT (YEAR FROM AGE(c.DataNascimento)) AS Idade,
 		c.Dependentes,
 		c.EstadoCivil,
 		pf.NomeComercial AS Produto,
 		pc.ValorSolicitado,
 		pc.ValorTotalBem,
 		CASE
-			WHEN COUNT (p.Status) FILTER (WHERE p.Status = 'Vencido') > 0 THEN 'ruim' ELSE 'bom'
+			WHEN COUNT (p.Status) FILTER (WHERE p.Status = 'Vencido') > 0 THEN 'ruim'
+			ELSE 'bom'
 		END AS Classe
 FROM clientes c
 JOIN PedidoCredito pc ON c.ClienteID = pc.ClienteID

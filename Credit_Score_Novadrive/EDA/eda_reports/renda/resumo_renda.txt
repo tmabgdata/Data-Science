@@ -1,0 +1,10 @@
+Resumo estatístico de renda:
+count      150.000000
+mean     36406.813333
+std      12974.282533
+min       7814.000000
+25%      24271.750000
+50%      35795.000000
+75%      46361.000000
+max      59976.000000
+Name: renda, dtype: float64

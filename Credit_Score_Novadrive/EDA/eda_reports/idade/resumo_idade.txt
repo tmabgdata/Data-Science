@@ -1,0 +1,10 @@
+Resumo estatístico de idade:
+count    150.000000
+mean      47.633333
+std       20.017917
+min       22.000000
+25%       36.000000
+50%       47.000000
+75%       57.750000
+max      224.000000
+Name: idade, dtype: float64

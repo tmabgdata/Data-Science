@@ -1,0 +1,15 @@
+Análise de valores nulos:
+profissao          0
+tempoprofissao     0
+renda              0
+tiporesidencia     3
+escolaridade       0
+score              0
+idade              0
+dependentes        0
+estadocivil        0
+produto            0
+valorsolicitado    0
+valortotalbem      0
+classe             0
+dtype: int64
