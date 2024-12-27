@@ -2,5 +2,5 @@
 /.ipynb_checkpoints/
 /.vscode
 */.env
-Credit_Score_Novadrive/EDA/config.yaml
-Credit_Score_Novadrive/EDA/__pycache__/
+*/__pycache__/
+*.yaml
