@@ -1,6 +1,0 @@
-/ds/
-/.ipynb_checkpoints/
-/.vscode
-*/.env
-*/__pycache__/
-*.yaml
